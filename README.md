@@ -7,7 +7,7 @@ Introduced the ideas of event handling and audio sources.
 
 ### App Walk-though
 
-<img src="dicee.gif" width=200><br>
+<img src="drum-kit.gif" width=200><br>
 
 ## Required
 - [x] Drums play sound on key press.
